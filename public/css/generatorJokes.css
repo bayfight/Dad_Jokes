@@ -1,0 +1,19 @@
+#background{
+    width: 700px;
+    height: 490px;
+    background-color: pink;
+}
+
+.ml{
+    margin-left: 15%;
+}
+
+#cardJokes{
+    width: 520px;
+    height: 350px;
+    
+}
+
+button{
+    margin-left: 80% !important;
+}
